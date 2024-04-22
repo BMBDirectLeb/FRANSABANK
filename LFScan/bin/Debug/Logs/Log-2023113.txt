@@ -1,0 +1,16 @@
+11/3/2023 8:53:29 :    Unable to connect to Laserfiche. Error message :Log in failed because the number of sessions has reached the licensed limit, or the user account has reached its session limit, or no named user license has been allocated to the user account. [9030]
+11/3/2023 8:54:2 :    Unable to connect to Laserfiche. Error message :Log in failed because the number of sessions has reached the licensed limit, or the user account has reached its session limit, or no named user license has been allocated to the user account. [9030]
+11/3/2023 8:54:14 :    Unable to connect to Laserfiche. Error message :Log in failed because the number of sessions has reached the licensed limit, or the user account has reached its session limit, or no named user license has been allocated to the user account. [9030]
+11/3/2023 9:21:3 :    Unable to connect to Laserfiche. Error message :Log in failed because the number of sessions has reached the licensed limit, or the user account has reached its session limit, or no named user license has been allocated to the user account. [9030]
+11/3/2023 9:21:38 :    Unable to connect to Laserfiche. Error message :Log in failed because the number of sessions has reached the licensed limit, or the user account has reached its session limit, or no named user license has been allocated to the user account. [9030]
+11/3/2023 9:23:39 :    Unable to connect to Laserfiche. Error message :Log in failed because the number of sessions has reached the licensed limit, or the user account has reached its session limit, or no named user license has been allocated to the user account. [9030]
+11/3/2023 9:24:9 :    Unable to connect to Laserfiche. Error message :Log in failed because the number of sessions has reached the licensed limit, or the user account has reached its session limit, or no named user license has been allocated to the user account. [9030]
+11/3/2023 9:25:4 :    Unable to connect to Laserfiche. Error message :Log in failed because the number of sessions has reached the licensed limit, or the user account has reached its session limit, or no named user license has been allocated to the user account. [9030]
+11/3/2023 11:41:23 :    Cannot apply scanner parameters. Error message: Access to the path 'C:\Windows\SETSCAN.INI' is denied.
+11/3/2023 12:44:30 :    Error while loading scanning interface. Error message: Scanning Error 1. 
+11/3/2023 12:45:49 :    Error while loading scanning interface. Error message: Scanning Error 1. 
+11/3/2023 12:49:43 :    Error while loading scanning interface. Error message: Scanning Error 1. 
+11/3/2023 12:59:46 :    Error while loading scanning interface. Error message: Scanning Error -532462766. 
+11/3/2023 13:12:9 :    Error while loading scanning interface. Error message: Scanning Error 1. 
+11/3/2023 13:13:22 :    Error while loading scanning interface. Error message: Scanning Error 1. 
+11/3/2023 13:40:10 :    Error while loading scanning interface. Error message: Scanning Error 1. 

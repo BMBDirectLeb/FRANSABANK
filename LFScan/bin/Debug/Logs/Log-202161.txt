@@ -1,0 +1,29 @@
+6/1/2021 10:46:30 :    Error while retrieving settings folder content. Error message: Conversion from string ", " to type 'Double' is not valid.
+6/1/2021 10:47:29 :    Error while retrieving settings folder content. Error message: Conversion from string ", " to type 'Double' is not valid.
+6/1/2021 10:55:23 :    Error while retrieving settings folder content. Error message: Object already exists. [9002]
+6/1/2021 10:56:1 :    Error while retrieving settings folder content. Error message: Object already exists. [9002]
+6/1/2021 11:6:32 :    Error while retrieving settings folder content. Error message: Entry not found. [9001]
+6/1/2021 11:7:29 :    Error while retrieving settings folder content. Error message: Entry not found. [9001]
+6/1/2021 11:8:4 :    Error while retrieving settings folder content. Error message: Entry not found. [9001]
+6/1/2021 11:8:30 :    Error while retrieving settings folder content. Error message: Entry not found. [9001]
+6/1/2021 11:10:7 :    Error while retrieving settings folder content. Error message: Conversion from string "S-1-0-0" to type 'Integer' is not valid.
+6/1/2021 11:28:31 :    Error while retrieving settings folder content. Error message: Entry path is invalid.
+Parameter name: newPath
+6/1/2021 14:10:37 :    Error while creating document. Error message: Multistatus response. [9039]
+Another operation on which this operation depends failed. [9054]
+Another operation on which this operation depends failed. [9054]
+Bad field value. [9017]
+Another operation on which this operation depends failed. [9054]
+Another operation on which this operation depends failed. [9054]
+Another operation on which this operation depends failed. [9054]
+6/1/2021 15:44:3 :    Error while creating document. Error message: Multistatus response. [9039]
+Another operation on which this operation depends failed. [9054]
+Another operation on which this operation depends failed. [9054]
+Bad field value. [9017]
+Another operation on which this operation depends failed. [9054]
+Another operation on which this operation depends failed. [9054]
+Another operation on which this operation depends failed. [9054]
+6/1/2021 16:39:27 :    Error while loading scanning interface. Error message: Specified argument was out of the range of valid values.
+Parameter name: entryId
+6/1/2021 16:51:9 :    Error while loading scanning interface. Error message: Scanning Error -805306369. 
+6/1/2021 16:58:58 :    Error while loading scanning interface. Error message: Scanning Error 1. 

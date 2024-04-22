@@ -1,0 +1,18 @@
+5/31/2021 12:2:36 :    Error while loading scanning interface. error message: A syntax error was encountered while processing the search or query statement. [9084]
+5/31/2021 12:4:16 :    Error while loading scanning interface. error message: A syntax error was encountered while processing the search or query statement. [9084]
+5/31/2021 12:21:28 :    Error while retrieving settings folder content. error message: A syntax error was encountered while processing the search or query statement. [9084]
+5/31/2021 12:25:54 :    Error while retrieving settings folder content. error message: A syntax error was encountered while processing the search or query statement. [9084]
+5/31/2021 12:28:37 :    Error while retrieving settings folder content. error message: An unrecognized character was encountered. [9085]
+5/31/2021 14:57:31 :    Error while retrieving settings folder content. Error message: Entry path is invalid.
+Parameter name: newPath
+5/31/2021 15:2:15 :    Error while retrieving settings folder content. Error message: Entry path is invalid.
+Parameter name: newPath
+5/31/2021 15:7:38 :    Error while retrieving settings folder content. Error message: Value cannot be null.
+Parameter name: path
+5/31/2021 15:21:49 :    Error while retrieving settings folder content. Error message: Entry path is invalid.
+Parameter name: newPath
+5/31/2021 15:23:0 :    Error while retrieving settings folder content. Error message: Invalid object name. [9019]
+5/31/2021 15:24:18 :    Error while retrieving settings folder content. Error message: Value cannot be null.
+Parameter name: path
+5/31/2021 15:45:26 :    Error while retrieving settings folder content. Error message: Value cannot be null.
+Parameter name: path

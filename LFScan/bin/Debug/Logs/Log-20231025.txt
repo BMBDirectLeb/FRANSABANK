@@ -1,0 +1,3 @@
+10/25/2023 0:47:43 :    Unable to connect to Laserfiche. Error message :Trustee not found. [9012]
+10/25/2023 0:48:25 :    Unable to connect to Laserfiche. Error message :Trustee not found. [9012]
+10/25/2023 0:51:49 :    Unable to connect to Laserfiche. Error message :Trustee not found. [9012]

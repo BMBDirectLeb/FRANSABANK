@@ -1,0 +1,8 @@
+10/27/2023 11:37:59 :    Unable to connect using windows authentication for user {student}. Error message :Error sending HTTP request to server.
+10/27/2023 11:39:34 :    Unable to connect using windows authentication for user {student}. Error message :Error sending HTTP request to server.
+10/27/2023 11:57:12 :    Unable to connect using windows authentication for user {student}. Error message :Access denied. [9013]
+10/27/2023 12:12:2 :    Unable to connect using windows authentication for user {student}. Error message :Access denied. [9013]
+10/27/2023 12:29:48 :    Unable to connect using windows authentication for user {student}. Error message :Access denied. [9013]
+10/27/2023 12:39:7 :    Unable to read from the Types field. Error message :Template not found. [9015]
+10/27/2023 12:39:55 :    Unable to read from the Types field. Error message :Could not find the field specified, or the field is not part of the specified template. [9016]
+10/27/2023 12:57:51 :    Unable to connect to Laserfiche. Error message :Log in failed because the number of sessions has reached the licensed limit, or the user account has reached its session limit, or no named user license has been allocated to the user account. [9030]

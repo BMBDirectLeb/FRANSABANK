@@ -1,0 +1,28 @@
+4/16/2024 11:16:9 :    Cannot apply scanner parameters. Error message: The requested portion of the document does not exist. [9003]
+4/16/2024 11:16:10 :    Cannot expport scanning attributes. Error message: The requested portion of the document does not exist. [9003]
+4/16/2024 11:16:11 :    Error while setting up the user attributes. Error message: Could not find file 'C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\TempAttributes.xml'.
+4/16/2024 11:16:38 :    Error while getting user attributes. Error message: The '$' character, hexadecimal value 0x24, cannot be included in a name.
+4/16/2024 11:20:33 :    Cannot apply scanner parameters. Error message: The requested portion of the document does not exist. [9003]
+4/16/2024 11:20:35 :    Cannot expport scanning attributes. Error message: The requested portion of the document does not exist. [9003]
+4/16/2024 11:20:35 :    Error while setting up the user attributes. Error message: Could not find file 'C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\TempAttributes.xml'.
+4/16/2024 11:20:57 :    Error while getting user attributes. Error message: The '$' character, hexadecimal value 0x24, cannot be included in a name.
+4/16/2024 15:42:42 :    Cannot apply scanner parameters. Error message: The requested portion of the document does not exist. [9003]
+4/16/2024 15:42:46 :    Cannot expport scanning attributes. Error message: The requested portion of the document does not exist. [9003]
+4/16/2024 15:42:47 :    Error while setting up the user attributes. Error message: Could not find file 'C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\TempAttributes.xml'.
+4/16/2024 15:45:42 :    Error while getting user attributes. Error message: The '$' character, hexadecimal value 0x24, cannot be included in a name.
+4/16/2024 15:47:54 :    Cannot apply scanner parameters. Error message: The requested portion of the document does not exist. [9003]
+4/16/2024 15:47:58 :    Cannot expport scanning attributes. Error message: The requested portion of the document does not exist. [9003]
+4/16/2024 15:48:2 :    Error while setting up the user attributes. Error message: Could not find file 'C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\TempAttributes.xml'.
+4/16/2024 16:0:52 :    Cannot apply scanner parameters. Error message: The requested portion of the document does not exist. [9003]
+4/16/2024 16:0:54 :    Cannot expport scanning attributes. Error message: The requested portion of the document does not exist. [9003]
+4/16/2024 16:0:54 :    Error while setting up the user attributes. Error message: Could not find file 'C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\TempAttributes.xml'.
+4/16/2024 16:11:2 :    Cannot apply scanner parameters. Error message: The requested portion of the document does not exist. [9003]
+4/16/2024 16:11:3 :    Cannot expport scanning attributes. Error message: The requested portion of the document does not exist. [9003]
+4/16/2024 16:31:47 :    Cannot apply scanner parameters. Error message: Entry not found. [9001]
+4/16/2024 16:31:52 :    Cannot expport scanning attributes. Error message: Entry not found. [9001]
+4/16/2024 16:32:57 :    Cannot apply scanner parameters. Error message: Entry not found. [9001]
+4/16/2024 16:33:1 :    Cannot expport scanning attributes. Error message: Entry not found. [9001]
+4/16/2024 16:33:34 :    Cannot apply scanner parameters. Error message: Entry not found. [9001]
+4/16/2024 16:42:49 :    Cannot apply scanner parameters. Error message: Entry not found. [9001]
+4/16/2024 16:49:53 :    Error while setting up the user attributes. Error message: Data at the root level is invalid. Line 128, position 11.
+4/16/2024 16:51:47 :    Error while setting up the user attributes. Error message: Data at the root level is invalid. Line 520, position 14.

@@ -1,0 +1,7 @@
+11/20/2023 10:36:2 :    Error while loading scanning interface. error message: Scanning Error 1. 
+11/20/2023 11:11:15 :    Error while loading scanning interface. error message: Scanning Error 1. 
+11/20/2023 11:37:56 :    Cannot apply scanner parameters. Error message: Entry not found. [9001]
+11/20/2023 11:38:0 :    Cannot expport scanning attributes. Error message: Entry not found. [9001]
+11/20/2023 11:49:25 :    Cannot apply scanner parameters. Error message: Entry not found. [9001]
+11/20/2023 11:49:31 :    Error while setting up the user attributes. Error message: Entry not found. [9001]
+11/20/2023 11:50:48 :    Error while loading scanning interface. error message: Scanning Error 1. 

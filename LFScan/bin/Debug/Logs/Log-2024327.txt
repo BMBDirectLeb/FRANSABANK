@@ -1,0 +1,6 @@
+3/27/2024 10:37:5 :    Unable to connect using windows authentication for user {student}. Error message :Failed to authenticate
+3/27/2024 16:15:51 :    Cannot expport scanning attributes. Error message: Laserfiche.RepositoryAccess.DocumentInfo cannot be serialized because it does not have a parameterless constructor.
+3/27/2024 16:37:16 :    Cannot expport scanning attributes. Error message: Laserfiche.RepositoryAccess.DocumentInfo cannot be serialized because it does not have a parameterless constructor.
+3/27/2024 17:7:26 :    Unable to connect to Laserfiche. Error message :This session is not connected to a server. Call Connect first.
+3/27/2024 17:8:27 :    Unable to connect to Laserfiche. Error message :The user account name or password is incorrect. [9010]
+3/27/2024 17:22:35 :    Unable to connect using windows authentication for user {students}. Error message :Could not connect to the Laserfiche Server.

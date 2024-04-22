@@ -1,0 +1,1 @@
+11/12/2023 18:17:23 :    Error while setting up the user attributes. Error message: Index was outside the bounds of the array.

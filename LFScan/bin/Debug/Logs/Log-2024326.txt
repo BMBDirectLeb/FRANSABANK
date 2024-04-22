@@ -1,0 +1,4 @@
+3/26/2024 20:8:56 :    Unable to connect using windows authentication for user {administrator}. Error message :Access denied. [9013]
+3/26/2024 20:9:51 :    Unable to connect using windows authentication for user {administrator}. Error message :Access denied. [9013]
+3/26/2024 20:19:8 :    Unable to connect using windows authentication for user {administrator}. Error message :Access denied. [9013]
+3/26/2024 20:21:16 :    Unable to connect using windows authentication for user {administrator}. Error message :Access denied. [9013]

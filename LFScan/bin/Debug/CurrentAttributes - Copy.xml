@@ -1,0 +1,520 @@
+<Properties>
+  <Attribute>
+    <Name>[Scanning-xxxxxx]AppSettings</Name>
+    <Data>Settings:FadeProperties, Default; </Data>
+  </Attribute>
+  <Attribute>
+    <Name>[Scanning-xxxxxx]AutoSign</Name>
+    <Data>False</Data>
+  </Attribute>
+  <Attribute>
+    <Name>[Scanning-xxxxxx]AutoSignSetting</Name>
+    <Data>ImportSetting</Data>
+  </Attribute>
+  <Attribute>
+    <Name>[Scanning-xxxxxx]Commands</Name>
+    <Data>MULTI-ATTR:3</Data>
+  </Attribute>
+  <Attribute>
+    <Name>[Scanning-xxxxxx]Commands0$</Name>
+    <Data>&lt;Commands&gt;
+  &lt;Command ID="File.Exit"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Edit.Cut"&gt;
+    &lt;Accelerator&gt;X, Control&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Edit.Copy"&gt;
+    &lt;Accelerator&gt;C, Control&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Edit.Paste"&gt;
+    &lt;Accelerator&gt;V, Control&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Edit.Delete"&gt;
+    &lt;Accelerator&gt;Delete&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Edit.Enable"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Edit.Rename"&gt;
+    &lt;Accelerator&gt;M, Control&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Edit.DeletePage"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Edit.ThumbnailRotateRight"&gt;
+    &lt;Accelerator&gt;Right, Control, Alt&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Edit.ThumbnailRotateLeft"&gt;
+    &lt;Accelerator&gt;Left, Control, Alt&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="View.Session"&gt;
+    &lt;Accelerator&gt;F7&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="View.Properties"&gt;
+    &lt;Accelerator&gt;F4&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="View.ErrorLog"&gt;
+    &lt;Accelerator&gt;E, Shift, Control&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="View.Thumbnails"&gt;
+    &lt;Accelerator&gt;F8&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="View.Output"&gt;
+    &lt;Accelerator&gt;F3&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="View.ProcessResults"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="View.StatusBar"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="View.MainToolbar"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="View.Autohide"&gt;
+    &lt;Accelerator&gt;H, Shift, Control&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="View.RestoreDefault"&gt;
+    &lt;Accelerator&gt;L, Control, Alt&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="View.ZoomInThumbnails"&gt;
+    &lt;Accelerator&gt;Oemplus, Control, Alt&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="View.ZoomOutThumbnails"&gt;
+    &lt;Accelerator&gt;OemMinus, Control, Alt&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="View.ToggleThumbnailMode"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="View.ToggleTrees"&gt;
+    &lt;Accelerator&gt;Q, Control, Alt&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Action.ImportSampleImage"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Action.SetAsDefault"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Action.ScanSampleImage"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Action.StoreAll"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Action.SplitDocument"&gt;
+    &lt;Accelerator&gt;D, Control&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Action.SplitDocumentHere"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Action.CreateDocument"&gt;
+    &lt;Accelerator&gt;N, Control&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Action.MoveToNewFolder"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Action.ClearFields"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  </Data>
+  </Attribute>
+  <Attribute>
+    <Name>[Scanning-xxxxxx]Commands1$</Name>
+    <Data>&lt;/Command&gt;
+  &lt;Command ID="Action.StoreItem"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Action.AddProcess"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Action.TestProcess"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Action.AddOcr"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Action.SendImmediately"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Navigate.FirstPage"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Navigate.LastPage"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Nagivate.NextPage"&gt;
+    &lt;Accelerator&gt;Down, Alt&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Navigate.PreviousPage"&gt;
+    &lt;Accelerator&gt;Up, Alt&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Navigate.NextDocument"&gt;
+    &lt;Accelerator&gt;Right, Alt&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Navigate.PrevDocument"&gt;
+    &lt;Accelerator&gt;Left, Alt&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Navigate.NextError"&gt;
+    &lt;Accelerator&gt;Right, Shift, Alt&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Navigate.PrevError"&gt;
+    &lt;Accelerator&gt;Left, Shift, Alt&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Navigate.GotoPage"&gt;
+    &lt;Accelerator&gt;G, Control&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Scan.ChooseEngine"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Scan.InsertPage"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Scan.Start"&gt;
+    &lt;Accelerator&gt;S, Control&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Scan.Stop"&gt;
+    &lt;Accelerator&gt;O, Control&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Scan.Resume"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Scan.Rescan"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Scan.RescanCurrent"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Scan.ShowSetup"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Scan.ShowOptions"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Scan.ShowSettings"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Help.About"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Help.Contents"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="File.CustomizeKeyboard"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="File.Options"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Help.RefreshCaches"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Image.Rotate90"&gt;
+    &lt;Accelerator&gt;R, Control&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Image.Rotate180"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Image.Rotate270"&gt;
+    &lt;Accelerator&gt;L, Control&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Image.ZoomIn"&gt;
+    &lt;Accelerator&gt;Oemplus, Control&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Image.ZoomOut"&gt;
+    &lt;Accelerator&gt;OemMinus, Control&lt;/A</Data>
+  </Attribute>
+  <Attribute>
+    <Name>[Scanning-xxxxxx]Commands2$</Name>
+    <Data>ccelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Image.Zoom.10"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Image.Zoom.20"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Image.Zoom.35"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Image.Zoom.50"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Image.Zoom.75"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Image.Zoom.100"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Image.Zoom.200"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Image.Zoom.400"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Image.Zoom"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="View.Image"&gt;
+    &lt;Accelerator&gt;I, Control&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="View.Text"&gt;
+    &lt;Accelerator&gt;T, Control&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="View.ImageBeforeText"&gt;
+    &lt;Accelerator&gt;I, Shift, Control&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="View.ImageAfterText"&gt;
+    &lt;Accelerator&gt;T, Shift, Control&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="View.ImageAboveText"&gt;
+    &lt;Accelerator&gt;I, Control, Alt&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="View.ImageBelowText"&gt;
+    &lt;Accelerator&gt;T, Control, Alt&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="View.Choice"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Image.PanTool"&gt;
+    &lt;Accelerator&gt;H, Control&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Image.ZoomFitWidth"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Image.ZoomFitHeight"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="Image.ZoomFitWindow"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="View.Toolbar.StandardToolbar"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="View.Toolbar.UpperToolbar"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="View.Toolbar.LowerToolbar"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+  &lt;Command ID="View.Toolbar.Universal Capture Toolbar"&gt;
+    &lt;Accelerator&gt;None&lt;/Accelerator&gt;
+  &lt;/Command&gt;
+&lt;/Commands&gt;</Data>
+  </Attribute>
+  <Attribute>
+    <Name>[Scanning-xxxxxx]DisplaySettings</Name>
+    <Data>ITO:Image;ITSD:0.02034174;TSD:125;TBNS:8;STB:True;LET:True;ZOOM:19</Data>
+  </Attribute>
+  <Attribute>
+    <Name>[Scanning-xxxxxx]DocumentLength</Name>
+    <Data>0</Data>
+  </Attribute>
+  <Attribute>
+    <Name>[Scanning-xxxxxx]DocumentName</Name>
+    <Data>Untitled</Data>
+  </Attribute>
+  <Attribute>
+    <Name>[Scanning-xxxxxx]DocumentNameSetting</Name>
+    <Data>AutonameSetting</Data>
+  </Attribute>
+  <Attribute>
+    <Name>[Scanning-xxxxxx]HelpProviderMethod</Name>
+    <Data>None</Data>
+  </Attribute>
+  <Attribute>
+    <Name>[Scanning-xxxxxx]Processes</Name>
+    <Data>&lt;Processes&gt;&lt;Process Name="Line Removal" Type="Laserfiche.BatchProcessor.Processes.Proxies.LineRemovalPagedProcessProxy, Laserfiche.BatchProcessor.Processes, Version=9.1.0.0, Culture=neutral, PublicKeyToken=35de22b2ae3b724a" Enabled="True" Key="9aa7e2da-8eda-404e-93d9-422fab52a3ea" IsOcrProcess="False"&gt;&lt;LineOrientation&gt;Horizontal&lt;/LineOrientation&gt;&lt;LineSize&gt;&lt;Size&gt;Medium&lt;/Size&gt;&lt;SpecifiedValue&gt;150&lt;/SpecifiedValue&gt;&lt;/LineSize&gt;&lt;LineThickness&gt;&lt;Thickness&gt;Medium&lt;/Thickness&gt;&lt;SpecifiedValue&gt;20&lt;/SpecifiedValue&gt;&lt;/LineThickness&gt;&lt;LineGap&gt;&lt;Gap&gt;Small&lt;/Gap&gt;&lt;SpecifiedValue&gt;1&lt;/SpecifiedValue&gt;&lt;/LineGap&gt;&lt;LineCleanup&gt;&lt;Cleanup&gt;Medium&lt;/Cleanup&gt;&lt;SpecifiedValue&gt;2&lt;/SpecifiedValue&gt;&lt;/LineCleanup&gt;&lt;CharacterReconstruction&gt;&lt;Reconstruction&gt;None&lt;/Reconstruction&gt;&lt;SpecifiedValue&gt;0&lt;/SpecifiedValue&gt;&lt;/CharacterReconstruction&gt;&lt;PageRange /&gt;&lt;/Process&gt;&lt;/Processes&gt;</Data>
+  </Attribute>
+  <Attribute>
+    <Name>[Scanning-xxxxxx]ScanEngine-$$</Name>
+    <Data>&lt;EngineManager Type="Laserfiche.BatchProcessor.Processes.Proxies.UniversalCaptureProxy, Laserfiche.BatchProcessor.Processes, Version=9.1.0.0, Culture=neutral, PublicKeyToken=35de22b2ae3b724a"&gt;&lt;Engine Name="Universal Capture" ProgID="FileScanClient91.BPEngineEx.1"&gt;
+	&lt;PropertyBag Version="710" Size="12"&gt;
+		&lt;Property Name="DELETEFILES" Type="Bool"&gt;
+			&lt;Data&gt;0&lt;/Data&gt;
+		&lt;/Property&gt;
+		&lt;Property Name="INCLUDESUBFOLDERS" Type="Bool"&gt;
+			&lt;Data&gt;0&lt;/Data&gt;
+		&lt;/Property&gt;
+		&lt;Property Name="MOVETOPATH" Type="String"&gt;
+			&lt;Data&gt;C:\Program Files (x86)\Laserfiche\Client&lt;/Data&gt;
+		&lt;/Property&gt;
+		&lt;Property Name="OUTPUTDIRECTORY" Type="String"&gt;
+			&lt;Data&gt;C:\Users\xxxxxx\AppData\Local\Temp\Laserfiche Scanning&lt;/Data&gt;
+		&lt;/Property&gt;
+		&lt;Property Name="PAGEFILTER" Type="String"&gt;
+			&lt;Data&gt;*.tif;*.tiff&lt;/Data&gt;
+		&lt;/Property&gt;
+		&lt;Property Name="PRESORT" Type="Bool"&gt;
+			&lt;Data&gt;0&lt;/Data&gt;
+		&lt;/Property&gt;
+		&lt;Property Name="REMOVEPATHDRIVE" Type="Bool"&gt;
+			&lt;Data&gt;0&lt;/Data&gt;
+		&lt;/Property&gt;
+		&lt;Property Name="SCANUNTIL" Type="Bool"&gt;
+			&lt;Data&gt;0&lt;/Data&gt;
+		&lt;/Property&gt;
+		&lt;Property Name="SEARCHDIRECTORY" Type="String"&gt;
+			&lt;Data&gt;C:\Program Files (x86)\Laserfiche\Client&lt;/Data&gt;
+		&lt;/Property&gt;
+		&lt;Property Name="SHOWEXTENDED" Type="Bool"&gt;
+			&lt;Data&gt;0&lt;/Data&gt;
+		&lt;/Property&gt;
+		&lt;Property Name="SINGLEPAGE" Type="Bool"&gt;
+			&lt;Data&gt;0&lt;/Data&gt;
+		&lt;/Property&gt;
+		&lt;Property Name="TIMEOUT" Type="Integer"&gt;
+			&lt;Data&gt;1&lt;/Data&gt;
+		&lt;/Property&gt;
+	&lt;/PropertyBag&gt;
+&lt;/Engine&gt;
+&lt;/EngineManager&gt;</Data>
+  </Attribute>
+  <Attribute>
+    <Name>[Scanning-xxxxxx]ScanVolume</Name>
+    <Data>1</Data>
+  </Attribute>
+  <Attribute>
+    <Name>[Scanning-xxxxxx]ScanVolumeSetting</Name>
+    <Data>ClientImport</Data>
+  </Attribute>
+  <Attribute>
+    <Name>[Scanning-xxxxxx]TempDirectory</Name>
+    <Data>C:\Users\xxxxxx\AppData\Local\Temp\Laserfiche Scanning</Data>
+  </Attribute>
+  <Attribute>
+    <Name>[Scanning-xxxxxx]Template</Name>
+    <Data>
+    </Data>
+  </Attribute>
+  <Attribute>
+    <Name>[Scanning-xxxxxx]TemplateSetting</Name>
+    <Data>LastScanValue</Data>
+  </Attribute>
+  <Attribute>
+    <Name>[Scanning-xxxxxx]TextFont</Name>
+    <Data>Arial, -16, 400, 0</Data>
+  </Attribute>
+  <Attribute>
+    <Name>[Scanning-xxxxxx]TextFontSetting</Name>
+    <Data>ClientSetting</Data>
+  </Attribute>
+  <Attribute>
+    <Name>[Scanning-xxxxxx]Toolbars.en</Name>
+    <Data>MULTI-ATTR:2</Data>
+  </Attribute>
+  <Attribute>
+    <Name>[Scanning-xxxxxx]Toolbars.en0$</Name>
+    <Data>&lt;Toolbars&gt;&lt;Toolbar Id="StandardToolbar" Visible="True"&gt;&lt;Name&gt;Standard&lt;/Name&gt;&lt;Size&gt;true&lt;/Size&gt;&lt;ShowText&gt;false&lt;/ShowText&gt;&lt;Items UsesCommandId="true"&gt;&lt;ToolbarItem Command="Scan.Start" Visible="true" /&gt;&lt;ToolbarItem Command="Scan.Stop" Visible="true" /&gt;&lt;ToolbarItem Command="Action.StoreAll" Visible="true" /&gt;&lt;ToolbarItem Command="96" Visible="true" /&gt;&lt;ToolbarItem Command="Scan.Resume" Visible="true" /&gt;&lt;ToolbarItem Command="Scan.Rescan" Visible="true" /&gt;&lt;ToolbarItem Command="97" Visible="true" /&gt;&lt;ToolbarItem Command="Action.AddOcr" Visible="true" /&gt;&lt;ToolbarItem Command="Action.SendImmediately" Visible="false" /&gt;&lt;ToolbarItem Command="98" Visible="true" /&gt;&lt;ToolbarItem Command="99" Visible="true" /&gt;&lt;ToolbarItem Command="100" Visible="true" /&gt;&lt;ToolbarItem Command="View.Session" Visible="false" /&gt;&lt;ToolbarItem Command="View.Properties" Visible="false" /&gt;&lt;ToolbarItem Command="View.Thumbnails" Visible="false" /&gt;&lt;ToolbarItem Command="View.Output" Visible="false" /&gt;&lt;/Items&gt;&lt;/Toolbar&gt;&lt;Toolbar Id="UpperToolbar" Visible="True"&gt;&lt;Name&gt;Image&lt;/Name&gt;&lt;Size&gt;false&lt;/Size&gt;&lt;ShowText&gt;false&lt;/ShowText&gt;&lt;Items UsesCommandId="true"&gt;&lt;ToolbarItem Command="Image.PanTool" Visible="true" /&gt;&lt;ToolbarItem Command="89" Visible="true" /&gt;&lt;ToolbarItem Command="Image.ZoomIn" Visible="true" /&gt;&lt;ToolbarItem Command="Image.Zoom" Visible="true" /&gt;&lt;ToolbarItem Command="Image.ZoomOut" Visible="true" /&gt;&lt;ToolbarItem Command="90" Visible="true" /&gt;&lt;ToolbarItem Command="Image.Rotate270" Visible="true" /&gt;&lt;ToolbarItem Command="Image.Rotate90" Visible="true" /&gt;&lt;/Items&gt;&lt;/Toolbar&gt;&lt;Toolbar Id="LowerToolbar" Visible="True"&gt;&lt;Name&gt;Navigation&lt;/Name&gt;&lt;Size&gt;false&lt;/Size&gt;&lt;ShowText&gt;false&lt;/ShowText&gt;&lt;Items UsesCommandId="true"&gt;&lt;ToolbarItem Command="Navigate.FirstPage" Visible="false" /&gt;&lt;ToolbarItem Command="Navigate.PreviousPage" Visible="true" /&gt;&lt;ToolbarItem Command="Navigate.GotoPage" Visible="true" /&gt;&lt;ToolbarItem Command="91" Visible="true" /&gt;&lt;ToolbarItem Command="Nagivate.NextPage" Visible="true" /&gt;&lt;ToolbarItem Command="Navigate.LastPage" Visible="false" /&gt;&lt;ToolbarItem Command="92" Visible="true" /&gt;&lt;ToolbarItem Command="Navigate.PrevDocument" Visible="true" /&gt;&lt;ToolbarItem Command="Navigate.NextDocument" Visible="true" /&gt;&lt;ToolbarItem Command="Action.CreateDocument" Visible="true" /&gt;&lt;ToolbarItem Command="Action.SplitDocument" Visible="true" /&gt;&lt;ToolbarItem Command="Action.MoveToNewFolder" Visible="true" /&gt;&lt;ToolbarItem Command="93" Visible="true" /&gt;&lt;ToolbarItem Command="Edit.DeletePage" Visible="true" /&gt;&lt;ToolbarItem Command="94" Visible="true" /&gt;&lt;ToolbarItem Command="Navigate.PrevError" Visible="true" /&gt;&lt;ToolbarItem Command="Navigate.NextError" Visible="true" /&gt;&lt;ToolbarItem Command="95" Visible="true" /&gt;&lt;ToolbarItem Command="View.Choice" Visible="true" /&gt;&lt;/Items&gt;&lt;/Toolbar&gt;&lt;Toolbar Id="Universal Capture Toolbar" Visible="True"&gt;&lt;Name&gt;Scan Toolbar&lt;/Name&gt;&lt;Size&gt;true&lt;/Size&gt;&lt;ShowText&gt;false&lt;/ShowText&gt;&lt;Items UsesCommandId="true"&gt;&lt;ToolbarItem Command="Scan.ShowSetup" Visible="true" /&gt;&lt;ToolbarItem Command="132" Visible="true" /&gt;&lt;Toolba</Data>
+  </Attribute>
+  <Attribute>
+    <Name>[Scanning-xxxxxx]Toolbars.en1$</Name>
+    <Data>rItem Command="134" Visible="true" /&gt;&lt;ToolbarItem Command="UC.ScanDirectory" Visible="true" /&gt;&lt;ToolbarItem Command="UC.ScanDirectoryBrowse" Visible="true" /&gt;&lt;ToolbarItem Command="136" Visible="true" /&gt;&lt;ToolbarItem Command="138" Visible="true" /&gt;&lt;ToolbarItem Command="UC.ScanPageFilter" Visible="true" /&gt;&lt;/Items&gt;&lt;/Toolbar&gt;&lt;/Toolbars&gt;</Data>
+  </Attribute>
+  <Attribute>
+    <Name>[Scanning-xxxxxx]ToolbarsLayout.en</Name>
+    <Data>&lt;Toolbars&gt;&lt;Toolbar Id="StandardToolbar"&gt;&lt;ToolbarLocation&gt;&lt;Left&gt;3&lt;/Left&gt;&lt;Top&gt;0&lt;/Top&gt;&lt;Position&gt;Top&lt;/Position&gt;&lt;/ToolbarLocation&gt;&lt;/Toolbar&gt;&lt;Toolbar Id="Universal Capture Toolbar"&gt;&lt;ToolbarLocation&gt;&lt;Left&gt;3&lt;/Left&gt;&lt;Top&gt;39&lt;/Top&gt;&lt;Position&gt;Top&lt;/Position&gt;&lt;/ToolbarLocation&gt;&lt;/Toolbar&gt;&lt;/Toolbars&gt;</Data>
+  </Attribute>
+  <Attribute>
+    <Name>[Scanning-xxxxxx]WindowLayout.en</Name>
+    <Data>MULTI-ATTR:2</Data>
+  </Attribute>
+  <Attribute>
+    <Name>[Scanning-xxxxxx]WindowLayout.en0$</Name>
+    <Data>&lt;?xml version="1.0"?&gt;
+&lt;!--
+
+  Actipro UIStudio Dock Controls
+  Copyright (c) 2001-2006 Actipro Software LLC.  All rights reserved.
+  http://www.ActiproSoftware.com/Products/DotNet/
+
+--&gt;
+&lt;ToolWindowLayout Version="1.0"&gt;
+	&lt;LayoutData&gt;
+		&lt;HostContainerControl&gt;
+			&lt;ToolWindowContainer Dock="Bottom" Size="1233, 204" SelectedToolWindowGuid="a7f826be-cd03-4368-8fde-8facfb68dd50"&gt;
+				&lt;ToolWindow Key="Thumbnails" Guid="8ee9c154-9ec0-4106-9be7-9158ee6a2074" ImageIndex="-1" Text="Thumbnails" ToolTipText=""&gt;
+					&lt;AutoHideStateInfo RootDock="Bottom" /&gt;
+					&lt;DockedInsideHostStateInfo RootDock="Bottom" IsAttached="True"&gt;
+						&lt;AttachedToBefore Guid="a7f826be-cd03-4368-8fde-8facfb68dd50" /&gt;
+						&lt;AttachedToAfter Guid="a7f826be-cd03-4368-8fde-8facfb68dd50" /&gt;
+						&lt;AttachedToAfter Guid="905496d3-437f-4e21-93cc-61c25962ac7f" /&gt;
+						&lt;DockedBy Guid="3f5687ca-7b50-4ed0-89f1-3ad15dda69a0" RootDock="Left" DockOperationType="RightOuter" IsTopMost="True" /&gt;
+						&lt;DockedBy Guid="8aa89705-1643-44a9-9a61-12b1c0fe5008" RootDock="Right" DockOperationType="LeftOuter" IsTopMost="True" /&gt;
+					&lt;/DockedInsideHostStateInfo&gt;
+					&lt;DockedOutsideHostStateInfo IsAttached="False" /&gt;
+				&lt;/ToolWindow&gt;
+				&lt;ToolWindow Key="Output Log" Guid="a7f826be-cd03-4368-8fde-8facfb68dd50" ImageIndex="-1" Text="Output Log" ToolTipText=""&gt;
+					&lt;AutoHideStateInfo RootDock="Bottom" /&gt;
+					&lt;DockedInsideHostStateInfo RootDock="Bottom" IsAttached="True"&gt;
+						&lt;AttachedToBefore Guid="905496d3-437f-4e21-93cc-61c25962ac7f" /&gt;
+						&lt;AttachedToAfter Guid="8ee9c154-9ec0-4106-9be7-9158ee6a2074" /&gt;
+						&lt;DockedBy Guid="3f5687ca-7b50-4ed0-89f1-3ad15dda69a0" RootDock="Left" DockOperationType="RightOuter" IsTopMost="True" /&gt;
+						&lt;DockedBy Guid="8aa89705-1643-44a9-9a61-12b1c0fe5008" RootDock="Right" DockOperationType="LeftOuter" IsTopMost="True" /&gt;
+					&lt;/DockedInsideHostStateInfo&gt;
+					&lt;DockedOutsideHostStateInfo IsAttached="False" /&gt;
+				&lt;/ToolWindow&gt;
+			&lt;/ToolWindowContainer&gt;
+			&lt;ToolWindowContainer Dock="Left" Size="433, 893" SelectedToolWindowGuid="3f5687ca-7b50-4ed0-89f1-3ad15dda69a0"&gt;
+				&lt;ToolWindow Key="Scanning Explorer" Guid="3f5687ca-7b50-4ed0-89f1-3ad15dda69a0" DockedSize="429, 200" ImageIndex="-1" Text="Scanning Explorer" ToolTipText=""&gt;
+					&lt;AutoHideStateInfo RootDock="Left" /&gt;
+					&lt;DockedInsideHostStateInfo RootDock="Left" IsAttached="False" /&gt;
+					&lt;DockedOutsideHostStateInfo IsAttached="False" /&gt;
+				&lt;/ToolWindow&gt;
+			&lt;/ToolWindowContainer&gt;
+			&lt;ToolWindowContainer Dock="Right" Size="254, 893" SelectedToolWindowGuid="8aa89705-1643-44a9-9a61-12b1c0fe5008"&gt;
+				&lt;ToolWindow Key="Document Properties" Guid="8aa89705-1643-44a9-9a61-12b1c0fe5008" DockedSize="250, 400" ImageIndex="-1" Text="Default Properties" ToolTipText=""&gt;
+					&lt;AutoHideStateInfo RootDock="Right" /&gt;
+					&lt;DockedInsideHostStateInfo RootDock="Right" IsAttached="False" /&gt;
+					&lt;DockedOutsideHostStateInfo IsAttached="False" /&gt;
+				&lt;/ToolWindow&gt;
+			&lt;/ToolWindowContainer&gt;
+		&lt;/Host</Data>
+  </Attribute>
+  <Attribute>
+    <Name>[Scanning-xxxxxx]WindowLayout.en1$</Name>
+    <Data>ContainerControl&gt;
+		&lt;AutoHide Dock="Left" /&gt;
+		&lt;AutoHide Dock="Right" /&gt;
+		&lt;AutoHide Dock="Top" /&gt;
+		&lt;AutoHide Dock="Bottom" /&gt;
+		&lt;TabbedDocuments Orientation="Horizontal"&gt;
+			&lt;ToolWindow Key="DisplayControl" Guid="c8e5c8d9-435d-4d8f-9b2a-77621fe1704d" ImageIndex="-1" Text="DisplayControl" ToolTipText="" TabbedMdiContainerIndex="0"&gt;
+				&lt;AutoHideStateInfo RootDock="Top" /&gt;
+				&lt;DockedInsideHostStateInfo RootDock="Top" IsAttached="False"&gt;
+					&lt;DockedBy Guid="3f5687ca-7b50-4ed0-89f1-3ad15dda69a0" RootDock="Left" DockOperationType="RightOuter" IsTopMost="True" /&gt;
+					&lt;DockedBy Guid="8aa89705-1643-44a9-9a61-12b1c0fe5008" RootDock="Right" DockOperationType="LeftOuter" IsTopMost="True" /&gt;
+				&lt;/DockedInsideHostStateInfo&gt;
+				&lt;DockedOutsideHostStateInfo IsAttached="False" /&gt;
+			&lt;/ToolWindow&gt;
+		&lt;/TabbedDocuments&gt;
+		&lt;FloatingContainers /&gt;
+		&lt;Hidden&gt;
+			&lt;ToolWindow Key="Error Log" Guid="905496d3-437f-4e21-93cc-61c25962ac7f" State="DockableInsideHost" ImageIndex="-1" Text="Error Log" ToolTipText=""&gt;
+				&lt;AutoHideStateInfo RootDock="Bottom" /&gt;
+				&lt;DockedInsideHostStateInfo RootDock="Bottom" IsAttached="True"&gt;
+					&lt;AttachedToBefore Guid="8ee9c154-9ec0-4106-9be7-9158ee6a2074" /&gt;
+					&lt;AttachedToAfter Guid="a7f826be-cd03-4368-8fde-8facfb68dd50" /&gt;
+					&lt;DockedBy Guid="3f5687ca-7b50-4ed0-89f1-3ad15dda69a0" RootDock="Left" DockOperationType="RightOuter" IsTopMost="True" /&gt;
+					&lt;DockedBy Guid="8aa89705-1643-44a9-9a61-12b1c0fe5008" RootDock="Right" DockOperationType="LeftOuter" IsTopMost="True" /&gt;
+				&lt;/DockedInsideHostStateInfo&gt;
+				&lt;DockedOutsideHostStateInfo IsAttached="False" /&gt;
+			&lt;/ToolWindow&gt;
+		&lt;/Hidden&gt;
+	&lt;/LayoutData&gt;
+	&lt;CustomData /&gt;
+&lt;/ToolWindowLayout&gt;</Data>
+  </Attribute>
+  <Attribute>
+    <Name>[Scanning-xxxxxx]WindowSettings.en</Name>
+    <Data>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;TabbedUIForm&gt;
+    &lt;Location&gt;
+        &lt;State&gt;Maximized&lt;/State&gt;
+        &lt;X&gt;0&lt;/X&gt;
+        &lt;Y&gt;0&lt;/Y&gt;
+        &lt;Width&gt;808&lt;/Width&gt;
+        &lt;Height&gt;608&lt;/Height&gt;
+    &lt;/Location&gt;
+&lt;/TabbedUIForm&gt;</Data>
+  </Attribute>
+</Properties>

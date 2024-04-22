@@ -1,0 +1,4 @@
+9/21/2021 16:6:6 :    Cannot apply scanner parameters. Error message: The requested portion of the document does not exist. [9003]
+9/21/2021 16:11:3 :    Cannot expport scanning attributes. Error message: The requested portion of the document does not exist. [9003]
+9/21/2021 16:13:54 :    Error while loading scanning interface. Error message: Scanning Error 1. 
+9/21/2021 16:49:17 :    Error Reading Settings File. Error Message: Index was outside the bounds of the array.

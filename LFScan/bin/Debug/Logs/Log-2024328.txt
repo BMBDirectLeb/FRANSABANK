@@ -1,0 +1,18 @@
+3/28/2024 10:27:13 :    Cannot expport scanning attributes. Error message: Unable to cast object of type 'System.Text.StringBuilder' to type 'Laserfiche.RepositoryAccess.IDocumentContents'.
+3/28/2024 10:34:23 :    Cannot expport scanning attributes. Error message: The process cannot access the file 'C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\TempAttributes.ini' because it is being used by another process.
+3/28/2024 10:35:52 :    Cannot expport scanning attributes. Error message: The process cannot access the file 'C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\TempAttributes.ini' because it is being used by another process.
+3/28/2024 10:36:21 :    Cannot expport scanning attributes. Error message: The process cannot access the file 'C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\TempAttributes.ini' because it is being used by another process.
+3/28/2024 10:40:23 :    Cannot expport scanning attributes. Error message: The process cannot access the file 'C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\TempAttributes.ini' because it is being used by another process.
+3/28/2024 10:45:9 :    Cannot expport scanning attributes. Error message: Index was outside the bounds of the array.
+3/28/2024 10:45:48 :    Cannot expport scanning attributes. Error message: Index was outside the bounds of the array.
+3/28/2024 10:59:14 :    Cannot expport scanning attributes. Error message: The process cannot access the file 'C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\TempAttributes.ini' because it is being used by another process.
+3/28/2024 16:37:49 :    Error while setting up the user attributes. Error message: Trustee attribute not found. [9080]
+3/28/2024 17:13:42 :    Error while setting up the user attributes. Error message: Attribute name must not be empty.
+Parameter name: key
+3/28/2024 17:18:23 :    Error while setting up the user attributes. Error message: Attribute name must not be empty.
+Parameter name: key
+3/28/2024 17:19:6 :    Error while setting up the user attributes. Error message: Attribute name must not be empty.
+Parameter name: key
+3/28/2024 17:20:38 :    Error while setting up the user attributes. Error message: Attribute name must not be empty.
+Parameter name: key
+3/28/2024 17:28:40 :    Error while setting up the user attributes. Error message: The process cannot access the file 'C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\TempAttributes.ini' because it is being used by another process.

@@ -1,0 +1,2 @@
+1/29/2024 9:25:36 :    Cannot apply scanner parameters. Error message: Entry not found. [9001]
+1/29/2024 9:25:49 :    Error while setting up the user attributes. Error message: Entry not found. [9001]

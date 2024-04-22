@@ -1,0 +1,5 @@
+4/2/2024 0:6:34 :    Error while setting up the user attributes. Error message: There are multiple root elements. Line 126, position 19.
+4/2/2024 0:6:53 :    Cannot expport scanning attributes. Error message: The process cannot access the file 'C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\TempAttributes.ini' because it is being used by another process.
+4/2/2024 0:6:54 :    Error while setting up the user attributes. Error message: There are multiple root elements. Line 126, position 19.
+4/2/2024 0:7:28 :    Error while setting up the user attributes. Error message: There are multiple root elements. Line 126, position 19.
+4/2/2024 0:17:10 :    Error while setting up the user attributes. Error message: There are multiple root elements. Line 126, position 19.

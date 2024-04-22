@@ -1,0 +1,12 @@
+11/10/2023 16:6:56 :    Error while loading scanning interface. Error message: Scanning Error -1. 
+11/10/2023 16:25:2 :    Error while loading scanning interface. Error message: Scanning Error -1. 
+11/10/2023 16:27:32 :    Error while loading scanning interface. Error message: Scanning Error -1. 
+11/10/2023 17:9:54 :    Error while loading scanning interface. Error message: Scanning Error -1. 
+11/10/2023 17:10:45 :    Error while loading scanning interface. Error message: Scanning Error -1. 
+11/10/2023 17:11:52 :    Error while loading scanning interface. Error message: Scanning Error -1. 
+11/10/2023 17:13:35 :    Error while loading scanning interface. Error message: Scanning Error -1. 
+11/10/2023 17:18:0 :    Error while setting up the user attributes. Error message: Argument 'Prompt' cannot be converted to type 'String'.
+11/10/2023 17:18:57 :    Error while setting up the user attributes. Error message: Argument 'Prompt' cannot be converted to type 'String'.
+11/10/2023 17:19:15 :    Error while setting up the user attributes. Error message: Argument 'Prompt' cannot be converted to type 'String'.
+11/10/2023 17:19:23 :    Cannot expport scanning attributes. Error message: The process cannot access the file 'C:\Users\student\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\TempAttributes.ini' because it is being used by another process.
+11/10/2023 17:19:25 :    Error while setting up the user attributes. Error message: Argument 'Prompt' cannot be converted to type 'String'.

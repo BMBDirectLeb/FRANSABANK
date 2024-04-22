@@ -1,0 +1,13 @@
+5/28/2021 9:8:48 :    Error while setting up the user attributes. Error message: Key already exists in collection.
+5/28/2021 9:11:49 :    Error while setting up the user attributes. Error message: Key already exists in collection.
+5/28/2021 9:12:50 :    Error while loading scanning interface. error message: Scanning Error -805306369. 
+5/28/2021 9:37:41 :    Error while setting up the user attributes. Error message: Key already exists in collection.
+5/28/2021 10:26:51 :    Cannot apply scanner parameters. Error message: Access to the path 'C:\Windows\SETSCAN.INI' is denied.
+5/28/2021 10:29:22 :    Error while setting up the user attributes. Error message: Key already exists in collection.
+5/28/2021 10:30:29 :    Cannot apply scanner parameters. Error message: Access to the path 'C:\Windows\SETSCAN.INI' is denied.
+5/28/2021 10:31:18 :    Cannot apply scanner parameters. Error message: Access to the path 'C:\Windows\SETSCAN.INI' is denied.
+5/28/2021 15:36:47 :    Error while setting up the user attributes. Error message: Key already exists in collection.
+5/28/2021 15:37:55 :    Error while loading scanning interface. error message: Scanning Error -805306369. 
+5/28/2021 15:45:20 :    Error while loading scanning interface. error message: Scanning Error 1. 
+5/28/2021 15:49:14 :    Error while loading scanning interface. error message: Scanning Error 1. 
+5/28/2021 16:35:56 :    Error while loading scanning interface. error message: Scanning Error 1. 

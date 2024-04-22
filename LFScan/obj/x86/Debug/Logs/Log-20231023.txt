@@ -1,0 +1,4 @@
+10/23/2023 6:52:13 :    Error Reading Settings File. Error Message: Could not find file 'C:\Users\Laserfiche\Desktop\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\Scanner.ini'.
+10/23/2023 6:54:32 :    Error Reading Settings File. Error Message: Could not find file 'C:\Users\Laserfiche\Desktop\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\settings.ini'.
+10/23/2023 6:54:55 :    Error Reading Settings File. Error Message: Could not find file 'C:\Users\Laserfiche\Desktop\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\branch.ini'.
+10/23/2023 6:55:37 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]

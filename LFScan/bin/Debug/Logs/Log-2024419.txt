@@ -1,0 +1,7 @@
+4/19/2024 14:54:49 :    Cannot apply scanner parameters. Error message: The requested portion of the document does not exist. [9003]
+4/19/2024 14:54:51 :    Cannot expport scanning attributes. Error message: The requested portion of the document does not exist. [9003]
+4/19/2024 14:54:51 :    Error while setting up the user attributes. Error message: Could not find file 'C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\TempAttributes.xml'.
+4/19/2024 14:59:10 :    Cannot apply scanner parameters. Error message: The requested portion of the document does not exist. [9003]
+4/19/2024 14:59:14 :    Cannot expport scanning attributes. Error message: The requested portion of the document does not exist. [9003]
+4/19/2024 14:59:15 :    Error while setting up the user attributes. Error message: Could not find file 'C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\TempAttributes.xml'.
+4/19/2024 15:18:53 :    Error Reading Settings File. Error Message: Invalid length for a Base-64 char array or string.

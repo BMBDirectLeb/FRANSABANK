@@ -1,0 +1,10 @@
+12/5/2023 12:36:16 :    Cannot apply scanner parameters. Error message: Entry not found. [9001]
+12/5/2023 12:36:23 :    Error while setting up the user attributes. Error message: Entry not found. [9001]
+12/5/2023 12:38:18 :    Cannot apply scanner parameters. Error message: Entry not found. [9001]
+12/5/2023 12:48:17 :    Error Reading Settings File. Error Message: Index was outside the bounds of the array.
+12/5/2023 15:50:33 :    Error while creating document. Error message: Object already exists. [9002]
+12/5/2023 15:53:40 :    Cannot apply scanner parameters. Error message: Entry not found. [9001]
+12/5/2023 15:53:45 :    Error while setting up the user attributes. Error message: Entry not found. [9001]
+12/5/2023 15:54:19 :    Cannot apply scanner parameters. Error message: Entry not found. [9001]
+12/5/2023 15:57:48 :    Error while loading scanning interface. error message: Scanning Error 1. 
+12/5/2023 16:7:53 :    Error while creating document. Error message: Object already exists. [9002]

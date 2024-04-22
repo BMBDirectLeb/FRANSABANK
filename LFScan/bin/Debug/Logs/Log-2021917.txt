@@ -1,0 +1,3 @@
+9/17/2021 10:43:19 :    Cannot apply scanner parameters. Error message: The requested portion of the document does not exist. [9003]
+9/17/2021 10:43:24 :    Cannot expport scanning attributes. Error message: The requested portion of the document does not exist. [9003]
+9/17/2021 10:44:5 :    Error while loading scanning interface. error message: Scanning Error 1. 

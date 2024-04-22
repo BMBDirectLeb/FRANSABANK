@@ -1,0 +1,2 @@
+11/2/2023 14:57:46 :    Unable to connect using windows authentication for user {student}. Error message :Error sending HTTP request to server.
+11/2/2023 14:58:25 :    Unable to connect using windows authentication for user {student}. Error message :Error sending HTTP request to server.

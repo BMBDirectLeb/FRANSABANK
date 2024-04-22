@@ -1,0 +1,10 @@
+6/4/2021 16:22:32 :    Error while loading scanning interface. Error message: Scanning Error 1. 
+6/4/2021 16:28:32 :    Error while loading scanning interface. error message: Scanning Error 1. 
+6/4/2021 16:33:14 :    Error while loading scanning interface. error message: Scanning Error -532462766. 
+6/4/2021 16:35:6 :    Error while loading scanning interface. Error message: Scanning Error -1. 
+6/4/2021 16:35:53 :    Error while loading scanning interface. Error message: Scanning Error -1. 
+6/4/2021 16:38:3 :    Error while loading scanning interface. error message: Scanning Error 1. 
+6/4/2021 16:39:8 :    Error while loading scanning interface. Error message: Scanning Error 1. 
+6/4/2021 16:42:46 :    Error while loading scanning interface. error message: Scanning Error 1. 
+6/4/2021 16:55:5 :    Error while loading scanning interface. Error message: Scanning Error -532462766. 
+6/4/2021 17:12:27 :    Error while loading scanning interface. error message: Scanning Error 1. 

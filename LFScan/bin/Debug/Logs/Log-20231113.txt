@@ -1,0 +1,3 @@
+11/13/2023 11:53:10 :    Unable to read from the Types field. Error message :Conversion from string "Voucher" to type 'Double' is not valid.
+11/13/2023 11:53:23 :    Unable to read from the Types field. Error message :Conversion from string "voucher" to type 'Double' is not valid.
+11/13/2023 12:8:11 :    Unable to read from the Types field. Error message :Conversion from string "voucher" to type 'Double' is not valid.

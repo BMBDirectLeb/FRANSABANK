@@ -1,0 +1,190 @@
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\BOB-Scan\obj\x86\Debug\LFScan.vbproj.ResolveComReference.cache
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\BOB-Scan\obj\x86\Debug\LFScan.Browse_Folders.resources
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\BOB-Scan\obj\x86\Debug\LFScan.Configuration.resources
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\BOB-Scan\obj\x86\Debug\LFScan.Form1.resources
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\BOB-Scan\obj\x86\Debug\LFScan.Resources.resources
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\BOB-Scan\obj\x86\Debug\LFScan.Welcome.resources
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\BOB-Scan\obj\x86\Debug\LFScan.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\BOB-Scan\obj\x86\Debug\LFScan.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\BOB-Scan\bin\Debug\LFScan.exe.config
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\BOB-Scan\bin\Debug\LFScan.exe
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\BOB-Scan\bin\Debug\LFScan.pdb
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\BOB-Scan\bin\Debug\LFScan.xml
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\BOB-Scan\bin\Debug\ClientAutomation.dll
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\BOB-Scan\bin\Debug\Laserfiche.DocumentServices.dll
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\BOB-Scan\bin\Debug\Laserfiche.RepositoryAccess.dll
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\BOB-Scan\bin\Debug\LaserficheImaging.dll
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\BOB-Scan\bin\Debug\Laserfiche.I18n.dll
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\BOB-Scan\bin\Debug\stdole.dll
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\BOB-Scan\bin\Debug\ClientAutomation.xml
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\BOB-Scan\bin\Debug\Laserfiche.DocumentServices.xml
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\BOB-Scan\bin\Debug\Laserfiche.RepositoryAccess.xml
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\BOB-Scan\bin\Debug\LaserficheImaging.xml
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\BOB-Scan\bin\Debug\Laserfiche.I18n.xml
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\BOB-Scan\obj\x86\Debug\LFScan.vbprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\BOB-Scan\obj\x86\Debug\LFScan.vbproj.CopyComplete
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\BOB-Scan\obj\x86\Debug\LFScan.exe
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\BOB-Scan\obj\x86\Debug\LFScan.xml
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\BOB-Scan\obj\x86\Debug\LFScan.pdb
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\LFScan\bin\Debug\LFScan.exe.config
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\LFScan\bin\Debug\LFScan.exe
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\LFScan\bin\Debug\LFScan.pdb
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\LFScan\bin\Debug\LFScan.xml
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\LFScan\bin\Debug\ClientAutomation.dll
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\LFScan\bin\Debug\Laserfiche.DocumentServices.dll
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\LFScan\bin\Debug\Laserfiche.RepositoryAccess.dll
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\LFScan\bin\Debug\LaserficheImaging.dll
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\LFScan\bin\Debug\stdole.dll
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\LFScan\bin\Debug\ClientAutomation.xml
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\LFScan\bin\Debug\Laserfiche.DocumentServices.xml
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\LFScan\bin\Debug\Laserfiche.RepositoryAccess.xml
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\LFScan\bin\Debug\LaserficheImaging.xml
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.ResolveComReference.cache
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\LFScan\obj\x86\Debug\LFScan.Browse_Folders.resources
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\LFScan\obj\x86\Debug\LFScan.Configuration.resources
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\LFScan\obj\x86\Debug\LFScan.Form1.resources
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\LFScan\obj\x86\Debug\LFScan.Resources.resources
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\LFScan\obj\x86\Debug\LFScan.Welcome.resources
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.CopyComplete
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\LFScan\obj\x86\Debug\LFScan.exe
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\LFScan\obj\x86\Debug\LFScan.xml
+C:\Users\Administrator\source\repos\BMB Git\BMB-LFScan\LF-Scan\LFScan\obj\x86\Debug\LFScan.pdb
+C:\Users\User\OneDrive - BMB\Customer Tools Github\Fransabank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\LFScan.exe.config
+C:\Users\User\OneDrive - BMB\Customer Tools Github\Fransabank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\LFScan.exe
+C:\Users\User\OneDrive - BMB\Customer Tools Github\Fransabank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\LFScan.pdb
+C:\Users\User\OneDrive - BMB\Customer Tools Github\Fransabank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\LFScan.xml
+C:\Users\User\OneDrive - BMB\Customer Tools Github\Fransabank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\ClientAutomation.dll
+C:\Users\User\OneDrive - BMB\Customer Tools Github\Fransabank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\Laserfiche.DocumentServices.dll
+C:\Users\User\OneDrive - BMB\Customer Tools Github\Fransabank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\Laserfiche.RepositoryAccess.dll
+C:\Users\User\OneDrive - BMB\Customer Tools Github\Fransabank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\LaserficheImaging.dll
+C:\Users\User\OneDrive - BMB\Customer Tools Github\Fransabank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\stdole.dll
+C:\Users\User\OneDrive - BMB\Customer Tools Github\Fransabank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\ClientAutomation.xml
+C:\Users\User\OneDrive - BMB\Customer Tools Github\Fransabank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\Laserfiche.DocumentServices.xml
+C:\Users\User\OneDrive - BMB\Customer Tools Github\Fransabank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\Laserfiche.RepositoryAccess.xml
+C:\Users\User\OneDrive - BMB\Customer Tools Github\Fransabank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\LaserficheImaging.xml
+C:\Users\User\OneDrive - BMB\Customer Tools Github\Fransabank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.ResolveComReference.cache
+C:\Users\User\OneDrive - BMB\Customer Tools Github\Fransabank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Browse_Folders.resources
+C:\Users\User\OneDrive - BMB\Customer Tools Github\Fransabank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Configuration.resources
+C:\Users\User\OneDrive - BMB\Customer Tools Github\Fransabank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Form1.resources
+C:\Users\User\OneDrive - BMB\Customer Tools Github\Fransabank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Resources.resources
+C:\Users\User\OneDrive - BMB\Customer Tools Github\Fransabank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Welcome.resources
+C:\Users\User\OneDrive - BMB\Customer Tools Github\Fransabank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.GenerateResource.cache
+C:\Users\User\OneDrive - BMB\Customer Tools Github\Fransabank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - BMB\Customer Tools Github\Fransabank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.CopyComplete
+C:\Users\User\OneDrive - BMB\Customer Tools Github\Fransabank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.exe
+C:\Users\User\OneDrive - BMB\Customer Tools Github\Fransabank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.xml
+C:\Users\User\OneDrive - BMB\Customer Tools Github\Fransabank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.pdb
+C:\Users\User\OneDrive - BMB\Customer Tools Github\Fransabank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.NewScanner.resources
+C:\Users\User\OneDrive - BMB\Customer Tools Github\Fransabank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.TVFolderBrowser.resources
+C:\Users\User\OneDrive - BMB\Customer Tools Github\Fransabank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.AssemblyReference.cache
+C:\Users\Laserfiche\Desktop\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\LFScan.exe.config
+C:\Users\Laserfiche\Desktop\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\LFScan.exe
+C:\Users\Laserfiche\Desktop\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\LFScan.pdb
+C:\Users\Laserfiche\Desktop\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\LFScan.xml
+C:\Users\Laserfiche\Desktop\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\stdole.dll
+C:\Users\Laserfiche\Desktop\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.AssemblyReference.cache
+C:\Users\Laserfiche\Desktop\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.ResolveComReference.cache
+C:\Users\Laserfiche\Desktop\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Browse_Folders.resources
+C:\Users\Laserfiche\Desktop\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Configuration.resources
+C:\Users\Laserfiche\Desktop\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Form1.resources
+C:\Users\Laserfiche\Desktop\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.TVFolderBrowser.resources
+C:\Users\Laserfiche\Desktop\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Resources.resources
+C:\Users\Laserfiche\Desktop\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.NewScanner.resources
+C:\Users\Laserfiche\Desktop\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Welcome.resources
+C:\Users\Laserfiche\Desktop\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.GenerateResource.cache
+C:\Users\Laserfiche\Desktop\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.CoreCompileInputs.cache
+C:\Users\Laserfiche\Desktop\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.CopyComplete
+C:\Users\Laserfiche\Desktop\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.exe
+C:\Users\Laserfiche\Desktop\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.xml
+C:\Users\Laserfiche\Desktop\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.pdb
+C:\Users\student\Desktop\george sawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.exe
+C:\Users\student\Desktop\george sawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.xml
+C:\Users\student\Desktop\george sawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.pdb
+C:\Users\student\Desktop\george sawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\LFScan.exe.config
+C:\Users\student\Desktop\george sawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\LFScan.exe
+C:\Users\student\Desktop\george sawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\LFScan.pdb
+C:\Users\student\Desktop\george sawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\LFScan.xml
+C:\Users\student\Desktop\george sawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\stdole.dll
+C:\Users\student\Desktop\george sawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.AssemblyReference.cache
+C:\Users\student\Desktop\george sawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.ResolveComReference.cache
+C:\Users\student\Desktop\george sawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Browse_Folders.resources
+C:\Users\student\Desktop\george sawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Configuration.resources
+C:\Users\student\Desktop\george sawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Form1.resources
+C:\Users\student\Desktop\george sawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.TVFolderBrowser.resources
+C:\Users\student\Desktop\george sawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Resources.resources
+C:\Users\student\Desktop\george sawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.NewScanner.resources
+C:\Users\student\Desktop\george sawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Welcome.resources
+C:\Users\student\Desktop\george sawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.GenerateResource.cache
+C:\Users\student\Desktop\george sawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\george sawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.CopyComplete
+C:\Users\student\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\LFScan.exe.config
+C:\Users\student\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\LFScan.exe
+C:\Users\student\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\LFScan.pdb
+C:\Users\student\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\LFScan.xml
+C:\Users\student\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\stdole.dll
+C:\Users\student\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.AssemblyReference.cache
+C:\Users\student\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.ResolveComReference.cache
+C:\Users\student\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Browse_Folders.resources
+C:\Users\student\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Configuration.resources
+C:\Users\student\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Form1.resources
+C:\Users\student\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.TVFolderBrowser.resources
+C:\Users\student\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Resources.resources
+C:\Users\student\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.NewScanner.resources
+C:\Users\student\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Welcome.resources
+C:\Users\student\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.GenerateResource.cache
+C:\Users\student\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.CopyComplete
+C:\Users\student\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.exe
+C:\Users\student\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.xml
+C:\Users\student\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.pdb
+C:\Users\Administrator\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\LFScan.exe.config
+C:\Users\Administrator\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\LFScan.exe
+C:\Users\Administrator\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\LFScan.pdb
+C:\Users\Administrator\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\LFScan.xml
+C:\Users\Administrator\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\ClientAutomation.dll
+C:\Users\Administrator\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\Laserfiche.DocumentServices.dll
+C:\Users\Administrator\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\Laserfiche.RepositoryAccess.dll
+C:\Users\Administrator\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\LaserficheImaging.dll
+C:\Users\Administrator\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\ClientAutomation.xml
+C:\Users\Administrator\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\Laserfiche.DocumentServices.xml
+C:\Users\Administrator\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\Laserfiche.RepositoryAccess.xml
+C:\Users\Administrator\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\LaserficheImaging.xml
+C:\Users\Administrator\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Browse_Folders.resources
+C:\Users\Administrator\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Configuration.resources
+C:\Users\Administrator\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Form1.resources
+C:\Users\Administrator\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.TVFolderBrowser.resources
+C:\Users\Administrator\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Resources.resources
+C:\Users\Administrator\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.NewScanner.resources
+C:\Users\Administrator\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Welcome.resources
+C:\Users\Administrator\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.CopyComplete
+C:\Users\Administrator\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.exe
+C:\Users\Administrator\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.xml
+C:\Users\Administrator\Desktop\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.pdb
+C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\LFScan.exe.config
+C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\LFScan.exe
+C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\LFScan.pdb
+C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\LFScan.xml
+C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\bin\Debug\stdole.dll
+C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.AssemblyReference.cache
+C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.ResolveComReference.cache
+C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Browse_Folders.resources
+C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Configuration.resources
+C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Form1.resources
+C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.TVFolderBrowser.resources
+C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Resources.resources
+C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.NewScanner.resources
+C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.Welcome.resources
+C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.GenerateResource.cache
+C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.vbproj.CopyComplete
+C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.exe
+C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.xml
+C:\Users\student\Desktop\Fransabank\new\georgesawan\FransaBank\FRANSABANK-LFScan\BMB-LFScan-main\LF-Scan\LFScan\obj\x86\Debug\LFScan.pdb

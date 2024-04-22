@@ -1,0 +1,62 @@
+10/23/2023 5:26:26 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Failed to authenticate
+10/23/2023 5:26:35 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Failed to authenticate
+10/23/2023 5:31:21 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Failed to authenticate
+10/23/2023 5:33:25 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Failed to authenticate
+10/23/2023 5:37:39 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Failed to authenticate
+10/23/2023 5:38:10 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Failed to authenticate
+10/23/2023 5:45:36 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Failed to authenticate
+10/23/2023 5:48:4 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Failed to authenticate
+10/23/2023 5:51:51 :    Error Reading Settings File. Error Message: Invalid length for a Base-64 char array or string.
+10/23/2023 5:52:21 :    Error Reading Settings File. Error Message: Invalid length for a Base-64 char array or string.
+10/23/2023 5:55:41 :    Error Reading Settings File. Error Message: Index was outside the bounds of the array.
+10/23/2023 5:56:13 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 5:56:25 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 5:57:58 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 5:58:50 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 5:59:53 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 6:11:36 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 6:14:10 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 6:17:12 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 6:20:22 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 6:21:41 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 6:22:53 :    Error Reading Settings File. Error Message: Invalid length for a Base-64 char array or string.
+10/23/2023 6:23:17 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 6:23:31 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 6:25:5 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 6:26:37 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 6:27:46 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 6:29:33 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 6:29:59 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 6:30:37 :    Error Reading Settings File. Error Message: Invalid length for a Base-64 char array or string.
+10/23/2023 6:31:1 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 6:34:41 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 6:35:6 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 6:36:3 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 6:37:41 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 6:41:51 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 6:45:55 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 6:54:23 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 7:10:44 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 7:14:8 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 7:14:44 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 7:16:43 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 7:19:50 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 7:21:52 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 7:24:0 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 7:26:25 :    Unable to read from the Types field. Error message :Template not found. [9015]
+10/23/2023 22:43:41 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 22:50:14 :    Unable to connect to Laserfiche. Error message :This session is not connected to a server. Call Connect first.
+10/23/2023 22:57:1 :    Unable to read from the Types field. Error message :Template not found. [9015]
+10/23/2023 23:1:48 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 23:8:27 :    Unable to connect using windows authentication for user {Laserfiche}. Error message :Access denied. [9013]
+10/23/2023 23:16:26 :    Unable to read from the Types field. Error message :Template not found. [9015]
+10/23/2023 23:16:48 :    Unable to read from the Types field. Error message :Template not found. [9015]
+10/23/2023 23:20:10 :    Unable to read from the Types field. Error message :Template not found. [9015]
+10/23/2023 23:20:25 :    Unable to read from the Types field. Error message :Template not found. [9015]
+10/23/2023 23:22:38 :    Unable to read from the Types field. Error message :Template not found. [9015]
+10/23/2023 23:23:35 :    Unable to read from the Types field. Error message :Template not found. [9015]
+10/23/2023 23:29:11 :    Unable to read from the Types field. Error message :Template not found. [9015]
+10/23/2023 23:46:7 :    Unable to read from the Types field. Error message :Template not found. [9015]
+10/23/2023 23:46:33 :    Unable to read from the Types field. Error message :Template not found. [9015]
+10/23/2023 23:48:3 :    Unable to read from the Types field. Error message :Template not found. [9015]
+10/23/2023 23:49:43 :    Unable to read from the Types field. Error message :Template not found. [9015]

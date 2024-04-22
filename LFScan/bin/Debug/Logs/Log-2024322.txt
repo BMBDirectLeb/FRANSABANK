@@ -1,0 +1,35 @@
+3/22/2024 9:29:40 :    Cannot apply scanner parameters. Error message: The requested portion of the document does not exist. [9003]
+3/22/2024 9:29:48 :    Cannot expport scanning attributes. Error message: The requested portion of the document does not exist. [9003]
+3/22/2024 9:57:52 :    Unable to connect using windows authentication for user {administrator}. Error message :Failed to authenticate
+3/22/2024 9:59:14 :    Unable to connect using windows authentication for user {administrator}. Error message :Access denied. [9013]
+3/22/2024 10:10:6 :    Unable to connect using windows authentication for user {administrator}. Error message :Access denied. [9013]
+3/22/2024 10:10:43 :    Error Reading Settings File. Error Message: Invalid length for a Base-64 char array or string.
+3/22/2024 10:48:50 :    Unable to connect using windows authentication for user {administrator}. Error message :Access denied. [9013]
+3/22/2024 10:50:59 :    Unable to connect using windows authentication for user {administrator}. Error message :Access denied. [9013]
+3/22/2024 10:52:34 :    Unable to connect using windows authentication for user {administrator}. Error message :Access denied. [9013]
+3/22/2024 11:5:21 :    Unable to connect to Laserfiche. Error message :This session is not connected to a server. Call Connect first.
+3/22/2024 11:6:17 :    Unable to connect to Laserfiche. Error message :This session is not connected to a server. Call Connect first.
+3/22/2024 11:7:5 :    Unable to connect to Laserfiche. Error message :This session is not connected to a server. Call Connect first.
+3/22/2024 11:8:5 :    Unable to connect to Laserfiche. Error message :This session is not connected to a server. Call Connect first.
+3/22/2024 11:8:30 :    Unable to connect to Laserfiche. Error message :This session is not connected to a server. Call Connect first.
+3/22/2024 11:8:38 :    Unable to connect to Laserfiche. Error message :This session is not connected to a server. Call Connect first.
+3/22/2024 11:9:21 :    Unable to connect to Laserfiche. Error message :This session is not connected to a server. Call Connect first.
+3/22/2024 11:9:34 :    Unable to connect to Laserfiche. Error message :This session is not connected to a server. Call Connect first.
+3/22/2024 11:11:22 :    Unable to connect to Laserfiche. Error message :This session is not connected to a server. Call Connect first.
+3/22/2024 11:13:0 :    Unable to connect to Laserfiche. Error message :This session is not connected to a server. Call Connect first.
+3/22/2024 11:16:13 :    Unable to connect to Laserfiche. Error message :This session is not connected to a server. Call Connect first.
+3/22/2024 11:29:43 :    Unable to connect to Laserfiche. Error message :This session is not connected to a server. Call Connect first.
+3/22/2024 11:30:10 :    Unable to connect using windows authentication for user {administrator}. Error message :Access denied. [9013]
+3/22/2024 11:30:48 :    Unable to connect using windows authentication for user {administrator}. Error message :Access denied. [9013]
+3/22/2024 11:31:56 :    Unable to connect using windows authentication for user {administrator}. Error message :Access denied. [9013]
+3/22/2024 11:33:13 :    Unable to connect to Laserfiche. Error message :This session is not connected to a server. Call Connect first.
+3/22/2024 11:34:9 :    Unable to connect to Laserfiche. Error message :This session is not connected to a server. Call Connect first.
+3/22/2024 11:35:43 :    Unable to connect to Laserfiche. Error message :This session is not connected to a server. Call Connect first.
+3/22/2024 11:39:37 :    Unable to read from the Types field. Error message :The object must have its connection set before it can be used.
+3/22/2024 11:40:4 :    Unable to connect to Laserfiche. Error message :This session is not connected to a server. Call Connect first.
+3/22/2024 11:40:31 :    Unable to connect to Laserfiche. Error message :This session is not connected to a server. Call Connect first.
+3/22/2024 11:41:23 :    Unable to connect to Laserfiche. Error message :This session is not connected to a server. Call Connect first.
+3/22/2024 11:41:38 :    Unable to connect to Laserfiche. Error message :This session is not connected to a server. Call Connect first.
+3/22/2024 11:45:52 :    Unable to connect using windows authentication for user {administrator}. Error message :Access denied. [9013]
+3/22/2024 11:46:14 :    Unable to connect using windows authentication for user {administrator}. Error message :Access denied. [9013]
+3/22/2024 11:48:31 :    Unable to connect using windows authentication for user {administrator}. Error message :Access denied. [9013]
